@@ -12,4 +12,6 @@ Otherwise, a number of unpleasant ethical problems will arise.
 Organoids can be grown using neural cells grown in vitro and planted on a special frame printed on a 3D printer, depending on the localization in the body. I am not suggesting in this document to kill human fetuses, nothing that meets the ethical precepts, I am not suggesting
 Brain-like organoids can solve scientific production problem to solve the problems of mass production, cities, infrastructure, overcoming human extinction.
 Each problem has its own unique mini brain.  
-They must be compatible and interchangeable and work like Lego bricks as universal computer components. Be robust to radiation and memory confibulations
+They must be compatible and interchangeable and work like Lego bricks as universal computer components. 
+Or like general purpouse software modules of python.
+Be robust to radiation and memory confibulations
