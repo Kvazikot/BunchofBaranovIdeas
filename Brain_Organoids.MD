@@ -1,4 +1,4 @@
-# The idea of ​​brain organoids.
+# The idea of ​​brain like organoids.
 Over the past decade, the science of studying the brain has advanced quite a lot.
 We have managed to make a complete map of the C elegans worm.
 Although the plans were much more serious. Initially, the idea was to map the brain of a rat and, moreover, to simulate it in real life.
