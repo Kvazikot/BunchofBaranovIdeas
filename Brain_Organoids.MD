@@ -11,3 +11,4 @@ Before this operation, it is necessary to make sure that there is no high-level 
 Otherwise, a number of unpleasant ethical problems will arise.
 Scientific production problem to solve the problems of mass production, cities, infrastructure, overcoming human extinction.
 Each problem has its own unique mini brain
+They must be compatible and interchangeable and work like Lego bricks as universal computer components. Be robust to radiation and memory confibulations
