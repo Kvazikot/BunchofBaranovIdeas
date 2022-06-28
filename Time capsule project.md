@@ -400,115 +400,115 @@ Matthias Wandel](https://woodgears.ca/dust_collector/blower_build.html) <br/>
 
 # List of books (August 2021)
 
-0. The knowledge how to rebuild our world from scratch by Dartnell, Lewis 
-1. Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-2. Power from the Wind A Practical Guide to Small-Scale Energy Production, Revised 2.d Ed. by Dan Chiras 
-3. Build Your Own Metal Working Shop from Scrap. The Metal Shaper by D. Gingery 
-4. Woodwork step by step  more than 4.tools and techniques with inspirational projects to make by Alan Bridgewater Dorling Kindersley Limited 
-5. Introduction to the History of Computing A Computing History Primer by Gerard O’Regan 
-6. Kustarnoe proizvodstvo spichek. by Shidlovskii.A. i dr. 
-7. Writing Apocalypse and Survival A Masterclass in Post-Apocalyptic Science Fiction and Zombie Horror by Jackson Dean Chase 
-8. 8.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  8.8..ocr.docx
-9. O.E.Bazilevich. Proizvodstvo goncharnoi posudy (djvu) 
-10. Laboratory Information Management Systems Revised  Expanded by Christine Paszko, Elizabeth Turner, 
-11. Build Your Own Metal Working Shop from Scrap. The Metal Shaper by D. Gingery 
-12. Life after doomsday A survivalist guide to nuclear war and other major disasters by Bruce D Clayton 
-13. The Metal Lathe (Build Your Own Metal Working Shop from Scrap  Book 13. by David Gingery 
-14. 14.izobretenii XX i XXI vekov, izmenivshie mir by Rylev Iu. 
-15. Build Your Own Metal Working Shop from Scrap15.docx
-16. Mechanical musical instruments.pdf
-17. The origin of the personality and intellect of man. The experience of generalizing the data of classical neurophysiology by A. Nevzorov
-18. The Art of Eating through the Zombie Apocalypse A Cookbook and Culinary Survival Guide by Lauren Wilson, Kristian Bauthus 
-19. Jigs  Fixtures For The Hand Tool Woodworker  18.Classic Devices You Can Make by Graham Blackburn 
-20. Who Owns the Future by Jaron Lanier 
-21. Doomsday Preppers Complete Survival Manual by Michael Sweeney 
-22. The Idea of the Castle in Medieval England by Abigail Wheatley 
-23. Ancient Engineers Inventions Precursors of the Present (History of Mechanism and Machine Science) by Cesare Rossi, Flavio Russo, Ferruccio Russo 
-24. 23.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  23.23..ocr.docx
-25. Building Wooden Machines Gears and Gadgets for the Adventurous Woodworker by Alan Bridgewater and Gill Bridgewater 
-26. The Time Capsule by McDaniel Lurlene 
-27. Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-28. Antichnost'. Simvolizm. Tekhnetika by Kudrin B.I. 
-29. The universal history of computing  from the abacus to the quantum computer by Georges Ifrah et al 
-30. ~$anie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-31. Preservation of Foods w.pdf
-32. 31.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  31.31..ocr.docx
-33. Preppers Essential Guide To Surviving a Natural Disaster, Doomsday Event and Economic Meltdown by Butch S Hardcastle 
-34. A brief history of computing by Gerard ORegan (auth.) 
-35. 34.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  34.34..ocr.docx
-36. Build Your Own Metal Working Shop from Scrap. The Drill Press by David J. Gingery 
-37. Build Your Own Metal Working Shop from Scrap. The Milling Machine by D. Gingery 
-38. The-Global-Reset-Survival-Guide.pdf
-39. Message in a Time Capsule by Stross Charles 
-40. Entsiklopediia vyzhivaniia v lesu bez komp'iutera i telefona by Kris Oksleid 
-41. Nuclear War Survival Skills by Cresson H. Kearny 
-42. How To Make Woodwork Tools by Charles H.Hayward 
-43. A History of Modern Computing, 42.d Edition (History of Computing) by Paul E. Ceruzzi 
-44. youtube links.txt
-45. Bibliografiia.pdf
-46. The knowledge how to rebuild our world from scratch by Dartnell, Lewis 
-47. Origins and Development of Musical Instruments by Jeremy Montagu 
-48. The End of the World Apocalypse and Its Aftermath in Western Culture by Maria Manuel Lisboa 
-49. Entsiklopediia vyzhivaniia v lesu bez komp'iutera i telefona by Kris Oksleid 
-50. The Preppers Water Survival Guide Harvest, Treat, and Store Your Most Vital Resource by Daisy Luther 
-51. Living off the Grid A Simple Guide to Creating and Maintaining a Self-reliant Supply of Energy, Water, Shelter and More by David Black 
-52. The dividing head  deluxe accessories by David J.  Gingery 
-53. Build Your Own Metal Working Shop from Scrap. The Milling Machine by D. Gingery 
-54. Machine Tool Reconditioning and Applications of Hand Scraping by Edward F. Connelly 
-55. Build Your Own Metal Working Shop from Scrap54.docx
-56. Kapsula vremeni iz podruchnykh Sredstv.txt
-57. Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-58. Making Wood Tools with John Wilson  Traditional Woodworking Tools You Can Make in Your Own Shop by John Wilson 
-59. Dawn of the New Everything Encounters with Reality and Virtual Reality by Jaron Lanier 
-60. The Survival Handbook A Practical Guide to Woodcraft and Woodlore by Ray Mears 
-61. 60. The Charcoal Foundry by David J.. Gingery 
-62. ~$anie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-63. The mechanization of the middle ages an intellectual history of medieval machine building by George William Brooks 
-64. American Woodworkers Hand Tool Fundamentals Advice, Techniques and Projects to Build Your Skills by American Woodworker Editors 
-65. Build Your Own Metal Working Shop from Scrap. Sheet metal Brake by David J. Gingery 
-66. Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-67. Build Your Own Metal Working Shop from Scrap66.docx
-68. From Mainframes to Smartphones A History of the International Computer Industry by Martin Campbell-Kelly, Daniel D. Garcia-Swartz 
-69. The Metal Lathe (Build Your Own Metal Working Shop from Scrap  Book 68. by David Gingery 
-70. The dividing head  deluxe accessories by David J.  Gingery 
-71. V.A.Chichaev, M.L.Glezin, i drugie. Oborudovanie tselliulozno-bumazhnogo proizvodstva, tom 70.
-72. Barrelorgan   the story of the mechanical organ and its repair   Ord-Hume, Arthur W. J. G. (Arthur Wolfgang Julius Gerard)   Free Download, Borrow, and Streaming   Internet Archive.pdf
-73. Computer A History of the Information Machine by Martin Campbell-Kelly, William Aspray, Nathan Ensmenger, Jeffrey R. Yost 
-74. The Survivalist (Freedom Lost) by Bradley, Arthur T 
-75. Medieval Cruck-Building and Its Derivatives A Study of Timber-Framed Construction Based on Buildings in Worcestershire by Frederick William Bolton Charles 
-76. Build Your Own Metal Working Shop from Scrap75.docx
-77. Build Your Own Metal Working Shop from Scrap. The Drill Press by David J. Gingery 
-78. 77.77.77..pdf
-79. Build Your Own Metal Working Shop from Scrap. Sheet metal Brake by David J. Gingery 
-80. The Survival Handbook A Practical Guide to Woodcraft and Woodlore by Ray Mears 
-81. V.I.Baptizmanskii, M.Ia.Medzhibozhskii. Konverternye protsessy proizvodstva stali (80. djvu) 
-82. Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
-83. 82. The Charcoal Foundry by David J.. Gingery 
-84. Doomsday Preppers A Practical Guide for the Beginner by Stone, James G 
-85. Bit by Bit An Illustrated History of Computers by Stan Augarten 
-86. The knowledge how to rebuild our world from scratch by Dartnell, Lewis 
-87. Heather Heying & Bret Weinstein A Hunter-Gatherer's Guide to the 21st Century. 
-100. Deadly Skills Survival Edition The SEAL Operative’s Guide to Surviving in the Wild and Being         
-102. Prepared for Any Disaster (Clint Emerson)                                                
-103. Effects of Nuclear War (Office of Technology Assessment etc.)                             
-104. Essential Survival Skills (DK Essential Skills) (Colin Towell)                            
-105. First Aid for the USMLE Step 1 2021, Thirty First Edition (Le, Tao, Bhushan, Vikas, Sochat, Matthew)                                                                                             
-106. Handbook of Nuclear, Biological, and Chemical Agent Exposures (Jerrold B. Leikin, Robin B. McFee etc.)                                                                                            
-107. How to Survive a Nuclear War (Baldwin, Miles)                                            
-108. Ken Schultzs Field Guide to Freshwater Fish (Ken Schultz)                                 
-109. Ken Schultzs Field Guide to Saltwater Fish (Schultz, Ken)                                 
-110. Knots An Illustrated Practical Guide to the Essential Knot Types and Their Uses (Adam Adamides)          
-111. Magic Mushrooms Around the World (Jochen Gartz)                                           
-112. Nuclear Medicine Resources Manual (K. Ramer, A. Alavi)                                    
-113. Nuclear War Survival Skills (Cresson H. Kearny)                                           
-114. Survival For Beginners A Step-By-Step Guide To Camping And Outdoor Skills (Colin Towell)  
-115. The Complete Guide to Edible Wild Plants, Mushrooms, Fruits, and Nuts Finding, Identifying, and Cooking  
-116. The MeatEater Guide to Wilderness Skills and Survival (Steven Rinella)                   
-117. The Survival Handbook A Practical Guide to Woodcraft and Woodlore (Mears, Raymond)        
-118. The Survival Retreat A Total Plan for Retreat Defense (Ragnar Benson)                     
-119. The Zombie Survival Guide Complete Protection from the Living Dead (Max Brooks)           
-120. U.S. Armed Forces Nuclear, Biological and Chemical Survival Manual (Dick, Capt. USN (ret) Couch)         
-121. US Army, Field Manual, FIRST AID , FM 4-25.11, 2002, Survival Medical Manual (United States Army and www.survivalebooks.com)                                                                   
-122. Оказание первой медицинской помощи при травмах (ушибах, вывихах, переломах) (Жилин А.Н., Гафарова К.Я.)                                                                                           
-123. Первая медицинская помощь при травмах и несчастных случаях (Марченко Д.В.)                
-124. Первая помощь при травмах (Юденич В.)                                                    
+* The Knowledge: How to Rebuild our World from Scratch 
+* Power from the Wind: A Practical Guide to Small-Scale Energy Production, Revised 2.d Ed. by Dan Chiras 
+* Build Your Own Metal Working Shop from Scrap. The Metal Shaper by D. Gingery 
+* Woodwork step by step  more than 4.tools and techniques with inspirational projects to make by Alan Bridgewater Dorling Kindersley Limited 
+* Introduction to the History of Computing A Computing History Primer by Gerard O’Regan 
+* Kustarnoe proizvodstvo spichek. by Shidlovskii.A. i dr. 
+* Writing Apocalypse and Survival A Masterclass in Post-Apocalyptic Science Fiction and Zombie Horror by Jackson Dean Chase 
+* 8.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  8.8..ocr.docx
+* O.E.Bazilevich. Proizvodstvo goncharnoi posudy (djvu) 
+* Laboratory Information Management Systems Revised  Expanded by Christine Paszko, Elizabeth Turner, 
+* Build Your Own Metal Working Shop from Scrap. The Metal Shaper by D. Gingery 
+* Life after doomsday A survivalist guide to nuclear war and other major disasters by Bruce D Clayton 
+* The Metal Lathe (Build Your Own Metal Working Shop from Scrap  Book 13. by David Gingery 
+* 14.izobretenii XX i XXI vekov, izmenivshie mir by Rylev Iu. 
+* Build Your Own Metal Working Shop from Scrap15.docx
+* Mechanical musical instruments.pdf
+* The origin of the personality and intellect of man. The experience of generalizing the data of classical neurophysiology by A. Nevzorov
+* The Art of Eating through the Zombie Apocalypse A Cookbook and Culinary Survival Guide by Lauren Wilson, Kristian Bauthus 
+* Jigs  Fixtures For The Hand Tool Woodworker  18.Classic Devices You Can Make by Graham Blackburn 
+* Who Owns the Future by Jaron Lanier 
+* Doomsday Preppers Complete Survival Manual by Michael Sweeney 
+* The Idea of the Castle in Medieval England by Abigail Wheatley 
+* Ancient Engineers Inventions Precursors of the Present (History of Mechanism and Machine Science) by Cesare Rossi, Flavio Russo, Ferruccio Russo 
+* 23.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  23.23..ocr.docx
+* Building Wooden Machines Gears and Gadgets for the Adventurous Woodworker by Alan Bridgewater and Gill Bridgewater 
+* The Time Capsule by McDaniel Lurlene 
+* Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* Antichnost'. Simvolizm. Tekhnetika by Kudrin B.I. 
+* The universal history of computing  from the abacus to the quantum computer by Georges Ifrah et al 
+* ~$anie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* Preservation of Foods w.pdf
+* 31.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  31.31..ocr.docx
+* Preppers Essential Guide To Surviving a Natural Disaster, Doomsday Event and Economic Meltdown by Butch S Hardcastle 
+* A brief history of computing by Gerard ORegan (auth.) 
+* 34.-The-Charcoal-Foundry-by-David-J..-Gingery- z-lib.org  34.34..ocr.docx
+* Build Your Own Metal Working Shop from Scrap. The Drill Press by David J. Gingery 
+* Build Your Own Metal Working Shop from Scrap. The Milling Machine by D. Gingery 
+* The-Global-Reset-Survival-Guide.pdf
+* Message in a Time Capsule by Stross Charles 
+* Entsiklopediia vyzhivaniia v lesu bez komp'iutera i telefona by Kris Oksleid 
+* Nuclear War Survival Skills by Cresson H. Kearny 
+* How To Make Woodwork Tools by Charles H.Hayward 
+* A History of Modern Computing, 42.d Edition (History of Computing) by Paul E. Ceruzzi 
+* youtube links.txt
+* Bibliografiia.pdf
+* The knowledge how to rebuild our world from scratch by Dartnell, Lewis 
+* Origins and Development of Musical Instruments by Jeremy Montagu 
+* The End of the World Apocalypse and Its Aftermath in Western Culture by Maria Manuel Lisboa 
+* Entsiklopediia vyzhivaniia v lesu bez komp'iutera i telefona by Kris Oksleid 
+* The Preppers Water Survival Guide Harvest, Treat, and Store Your Most Vital Resource by Daisy Luther 
+* Living off the Grid A Simple Guide to Creating and Maintaining a Self-reliant Supply of Energy, Water, Shelter and More by David Black 
+* The dividing head  deluxe accessories by David J.  Gingery 
+* Build Your Own Metal Working Shop from Scrap. The Milling Machine by D. Gingery 
+* Machine Tool Reconditioning and Applications of Hand Scraping by Edward F. Connelly 
+* Build Your Own Metal Working Shop from Scrap54.docx
+* Kapsula vremeni iz podruchnykh Sredstv.txt
+* Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* Making Wood Tools with John Wilson  Traditional Woodworking Tools You Can Make in Your Own Shop by John Wilson 
+* Dawn of the New Everything Encounters with Reality and Virtual Reality by Jaron Lanier 
+* The Survival Handbook A Practical Guide to Woodcraft and Woodlore by Ray Mears 
+* 60. The Charcoal Foundry by David J.. Gingery 
+* ~$anie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* The mechanization of the middle ages an intellectual history of medieval machine building by George William Brooks 
+* American Woodworkers Hand Tool Fundamentals Advice, Techniques and Projects to Build Your Skills by American Woodworker Editors 
+* Build Your Own Metal Working Shop from Scrap. Sheet metal Brake by David J. Gingery 
+* Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* Build Your Own Metal Working Shop from Scrap66.docx
+* From Mainframes to Smartphones A History of the International Computer Industry by Martin Campbell-Kelly, Daniel D. Garcia-Swartz 
+* The Metal Lathe (Build Your Own Metal Working Shop from Scrap  Book 68. by David Gingery 
+* The dividing head  deluxe accessories by David J.  Gingery 
+* V.A.Chichaev, M.L.Glezin, i drugie. Oborudovanie tselliulozno-bumazhnogo proizvodstva, tom 70.
+* Barrelorgan   the story of the mechanical organ and its repair   Ord-Hume, Arthur W. J. G. (Arthur Wolfgang Julius Gerard)   Free Download, Borrow, and Streaming   Internet Archive.pdf
+* Computer A History of the Information Machine by Martin Campbell-Kelly, William Aspray, Nathan Ensmenger, Jeffrey R. Yost 
+* The Survivalist (Freedom Lost) by Bradley, Arthur T 
+* Medieval Cruck-Building and Its Derivatives A Study of Timber-Framed Construction Based on Buildings in Worcestershire by Frederick William Bolton Charles 
+* Build Your Own Metal Working Shop from Scrap75.docx
+* Build Your Own Metal Working Shop from Scrap. The Drill Press by David J. Gingery 
+* 77.77.77..pdf
+* Build Your Own Metal Working Shop from Scrap. Sheet metal Brake by David J. Gingery 
+* The Survival Handbook A Practical Guide to Woodcraft and Woodlore by Ray Mears 
+* V.I.Baptizmanskii, M.Ia.Medzhibozhskii. Konverternye protsessy proizvodstva stali (80. djvu) 
+* Znanie o tom, kak perestroit' nash mir s nulia, Dartnell, L'iuis 
+* 82. The Charcoal Foundry by David J.. Gingery 
+* Doomsday Preppers A Practical Guide for the Beginner by Stone, James G 
+* Bit by Bit An Illustrated History of Computers by Stan Augarten 
+* The knowledge how to rebuild our world from scratch by Dartnell, Lewis 
+* Heather Heying & Bret Weinstein A Hunter-Gatherer's Guide to the 21st Century. 
+* Deadly Skills Survival Edition The SEAL Operative’s Guide to Surviving in the Wild and Being         
+* Prepared for Any Disaster (Clint Emerson)                                                
+* Effects of Nuclear War (Office of Technology Assessment etc.)                             
+* Essential Survival Skills (DK Essential Skills) (Colin Towell)                            
+* First Aid for the USMLE Step 1 2021, Thirty First Edition (Le, Tao, Bhushan, Vikas, Sochat, Matthew)                                                                                             
+* Handbook of Nuclear, Biological, and Chemical Agent Exposures (Jerrold B. Leikin, Robin B. McFee etc.)                                                                                            
+* How to Survive a Nuclear War (Baldwin, Miles)                                            
+* Ken Schultzs Field Guide to Freshwater Fish (Ken Schultz)                                 
+* Ken Schultzs Field Guide to Saltwater Fish (Schultz, Ken)                                 
+* Knots An Illustrated Practical Guide to the Essential Knot Types and Their Uses (Adam Adamides)          
+* Magic Mushrooms Around the World (Jochen Gartz)                                           
+* Nuclear Medicine Resources Manual (K. Ramer, A. Alavi)                                    
+* Nuclear War Survival Skills (Cresson H. Kearny)                                           
+* Survival For Beginners A Step-By-Step Guide To Camping And Outdoor Skills (Colin Towell)  
+* The Complete Guide to Edible Wild Plants, Mushrooms, Fruits, and Nuts Finding, Identifying, and Cooking  
+* The MeatEater Guide to Wilderness Skills and Survival (Steven Rinella)                   
+* The Survival Handbook A Practical Guide to Woodcraft and Woodlore (Mears, Raymond)        
+* The Survival Retreat A Total Plan for Retreat Defense (Ragnar Benson)                     
+* The Zombie Survival Guide Complete Protection from the Living Dead (Max Brooks)           
+* U.S. Armed Forces Nuclear, Biological and Chemical Survival Manual (Dick, Capt. USN (ret) Couch)         
+* US Army, Field Manual, FIRST AID , FM 4-25.11, 2002, Survival Medical Manual (United States Army and www.survivalebooks.com)                                                                   
+* Оказание первой медицинской помощи при травмах (ушибах, вывихах, переломах) (Жилин А.Н., Гафарова К.Я.)                                                                                           
+* Первая медицинская помощь при травмах и несчастных случаях (Марченко Д.В.)                
+* Первая помощь при травмах (Юденич В.)                                                    
+* 
