@@ -28,4 +28,4 @@
 С помощью подмены координат т.н. gps spoothing ва можете обмануть системы мониторинга активности.
 Перенаправить управляющие сигналы из master brain не в мозг биологического ребенка, а в эту болванку.
 
-![image](https://github.com/Kvazikot/BunchofBaranovIdeas/blob/master/images/anti_zombie_tec.jpg)
+![image](https://github.com/Kvazikot/ReverseEngineeringSoftwarePrison/blob/master/anti_zombie_sheme.jpg)
