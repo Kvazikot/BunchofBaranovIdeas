@@ -319,6 +319,7 @@ At this stage, it is planned to connect all the powerful powers of web gl script
 * Abacus, mechanical calculators, prototype computers
 * Making tools from wood. Tool making (woodworking)
 * Manufacture of metal tools. Lathe.
+* Lenses for telescopes and microscopes
 * Wood processing in ancient times. woodworking in ancient world
 * Making clothes
 * Survival in conditions of lack or lack of electricity. off the grid survive
