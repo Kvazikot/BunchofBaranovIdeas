@@ -118,6 +118,7 @@ Therefore, the device should automatically select the material corresponding to 
 4. A simple water disinfection method. Leave the plastic bottle in the sun.
 5. The rule that you can't throw your excrement into the river from which they take water.
 6. Production of weapons
+7. How to make a glass lens (https://youtu.be/2SJY0foypAo)
 
 ## List of tools.
 With instructions on how to make the tool. Testing Required
