@@ -211,7 +211,7 @@ fig.5 Cool test program
 ![image](https://github.com/Kvazikot/UsefulMacro/blob/master/UsefulClicker/cv/sketches/page_segmentor.jpg)
 ![image](https://github.com/Kvazikot/UsefulMacro/blob/master/UsefulClicker/cv/sketches/button_cnn_clasifer.jpg)
 ![image](https://github.com/Kvazikot/UsefulMacro/blob/master/UsefulClicker/cv/sketches/android_port_qpython.jpg)
-
+![image](https://raw.githubusercontent.com/Kvazikot/UsefulMacro/master/UsefulClicker/cv/sketches/rect_numbers.png)
   
 ## References
 * THE MATHEMATICAL THEORY OF COMMUNICATION CLAUDE E. SHANNON, WARREN WEAVER
