@@ -93,7 +93,7 @@ Bторое есть дефекты в функции детектора кол�
 За основу можно взять программу [snake-ai-pytorch-main](https://github.com/python-engineer/snake-ai-pytorch)
 Можно сделать обучение агента наподобии CubeAgent проекта BallPark только с управлением моделью авто.
 6 агнетов в 6 секциях как на рисунке. 
-
+Возможно работать на какой-то регулярной сетке c LOD типа [вот этой](https://github.com/Kvazikot/BunchofBaranovIdeas/blob/master/DiamondPlates.MD)
 
 ![image](https://github.com/Kvazikot/BallPark/blob/main/screenshots/agents_learning_env.png)
 
